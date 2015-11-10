@@ -1,0 +1,9 @@
+Usuario1;Password1;ALUMNO;Nombre1;
+Usuario2;Password2;ALUMNO;;Nombre2;
+Usuario3;Password3;ALUMNO;Nombre3
+Usuario4;Password4;ALUMNO
+Usuario5;;Password5;;ALUMNO;;Nombre5
+Usuario6;PasswordMAL6;ALUMNO;Nombre6;
+Usuario7;Password7;ALUMNOMAL;Nombre7;
+Usuario8;PasswordMAL8;ALUMNOMAL;Nombre8;
+UsuarioMAL9;Password9;ALUMNO;Nombre9;

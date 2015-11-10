@@ -1,0 +1,7 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\bin\Debug\BingoUnitTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\bin\Debug\BingoUnitTest.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\bin\Debug\ClassLibrary1.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\bin\Debug\ClassLibrary1.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\obj\Debug\BingoUnitTest.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\obj\Debug\BingoUnitTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoUnitTest\obj\Debug\BingoUnitTest.pdb

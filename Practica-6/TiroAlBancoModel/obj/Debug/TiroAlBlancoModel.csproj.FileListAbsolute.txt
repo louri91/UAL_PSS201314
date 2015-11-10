@@ -1,0 +1,4 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBancoModel\bin\Debug\TiroAlBancoModel.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBancoModel\bin\Debug\TiroAlBancoModel.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBancoModel\obj\Debug\TiroAlBancoModel.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBancoModel\obj\Debug\TiroAlBancoModel.pdb

@@ -1,0 +1,4 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoClassLibrary\bin\Debug\ClassLibrary1.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoClassLibrary\bin\Debug\ClassLibrary1.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoClassLibrary\obj\Debug\ClassLibrary1.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-5\BingoClassLibrary\obj\Debug\ClassLibrary1.pdb

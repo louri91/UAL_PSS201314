@@ -1,0 +1,7 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\bin\Debug\Autentificacion.TextFileTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\bin\Debug\Autentificacion.TextFileTest.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\bin\Debug\Autentificador.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\bin\Debug\Autentificador.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\obj\Debug\Autentificacion.TextFileTest.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\obj\Debug\Autentificacion.TextFileTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificacion.TextFileTest\obj\Debug\Autentificacion.TextFileTest.pdb

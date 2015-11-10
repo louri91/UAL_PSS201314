@@ -1,0 +1,5 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificador\bin\Debug\Autentificador.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificador\bin\Debug\Autentificador.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificador\obj\Debug\Autentificacion.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificador\obj\Debug\Autentificador.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-8\Autentificador\obj\Debug\Autentificador.pdb

@@ -1,0 +1,9 @@
+Usuario1;;;1;;;Password1;;;ALUMNO;;;true;;;
+Usuario2;;;2;;;Password2;;;;;;true;;;
+Usuario3;;;3;;;Password3;;;ALUMNO;;;true
+Usuario4;;;4;;;Password4;;;ALUMNO
+Usuario5;;;;;;5;;;Password5;;;;;;ALUMNO;;;;;;true
+Usuario6;;;6;;;PasswordMAL6;;;ALUMNO;;;true;;;
+UsuarioMAL7;;;77;;;Password7;;;ALUMNO;;;true;;;
+Usuario8;;;8;;;PasswordMAL8;;;ALUMNO;;;false;;;
+UsuarioMAL9;;;99;;;Password9;;;ALUMNO;;;false;;;

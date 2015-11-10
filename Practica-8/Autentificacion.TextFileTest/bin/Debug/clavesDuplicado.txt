@@ -1,0 +1,10 @@
+1;Usuario1;Password1;ALUMNO;true;
+2;Usuario2;Password2;;true;
+3;Usuario3;Password3;ALUMNO;true
+4;Usuario4;Password4;ALUMNO
+5;Usuario5;;Password5;;ALUMNO;;true
+6;Usuario6;PasswordMAL6;ALUMNO;true;
+77;UsuarioMAL7;Password7;ALUMNO;true;
+8;Usuario8;PasswordMAL8;ALUMNO;false;
+99;UsuarioMAL9;Password9;ALUMNO;false;
+99;UsuarioMAL10;Password10;ALUMNO;false;

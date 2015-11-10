@@ -1,0 +1,19 @@
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\IUsuarioView\bin\Debug\IUsuarioView.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\IUsuarioView\bin\Debug\IUsuarioView.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\IUsuarioView\obj\Debug\IUsuarioView.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\IUsuarioView\obj\Debug\IUsuarioView.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\IUsuarioView\obj\Debug\IUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\IUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\IUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\IUsuarioView\obj\Debug\IUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\IUsuarioView\obj\Debug\IUsuarioView.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\IUsuarioView\obj\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\IUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\IUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\IUsuarioView\obj\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\IUsuarioView\obj\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\IUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\IUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\IUsuarioView\obj\Debug\IUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\IUsuarioView\obj\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\IUsuarioView\obj\Debug\IUsuarioView.pdb

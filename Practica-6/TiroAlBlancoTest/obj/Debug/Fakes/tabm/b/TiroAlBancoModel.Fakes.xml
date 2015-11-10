@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TiroAlBancoModel.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Excepciones</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.#ctor(TiroAlBancoModel.Excepciones)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.Constructor">
+            <summary>Establecer el shim de Excepciones.Excepciones()</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Excepciones+AnguloMisilException</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.#ctor(TiroAlBancoModel.Excepciones.AnguloMisilException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.Constructor">
+            <summary>Establecer el shim de AnguloMisilException.AnguloMisilException()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.ConstructorSerializationInfoStreamingContext">
+            <summary>Establecer el shim de AnguloMisilException.AnguloMisilException(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.ConstructorString">
+            <summary>Establecer el shim de AnguloMisilException.AnguloMisilException(String message)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.ConstructorStringException">
+            <summary>Establecer el shim de AnguloMisilException.AnguloMisilException(String message, Exception inner)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimAnguloMisilException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Excepciones+ObjetivoDistanciaException</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.#ctor(TiroAlBancoModel.Excepciones.ObjetivoDistanciaException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.Constructor">
+            <summary>Establecer el shim de ObjetivoDistanciaException.ObjetivoDistanciaException()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.ConstructorSerializationInfoStreamingContext">
+            <summary>Establecer el shim de ObjetivoDistanciaException.ObjetivoDistanciaException(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.ConstructorString">
+            <summary>Establecer el shim de ObjetivoDistanciaException.ObjetivoDistanciaException(String message)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.ConstructorStringException">
+            <summary>Establecer el shim de ObjetivoDistanciaException.ObjetivoDistanciaException(String message, Exception inner)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimObjetivoDistanciaException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Excepciones+VelocidadMisilException</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.#ctor(TiroAlBancoModel.Excepciones.VelocidadMisilException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.Constructor">
+            <summary>Establecer el shim de VelocidadMisilException.VelocidadMisilException()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.ConstructorSerializationInfoStreamingContext">
+            <summary>Establecer el shim de VelocidadMisilException.VelocidadMisilException(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.ConstructorString">
+            <summary>Establecer el shim de VelocidadMisilException.VelocidadMisilException(String message)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.ConstructorStringException">
+            <summary>Establecer el shim de VelocidadMisilException.VelocidadMisilException(String message, Exception inner)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimExcepciones.ShimVelocidadMisilException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimMisilBalistico">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.MisilBalistico</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimMisilBalistico.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimMisilBalistico.#ctor(TiroAlBancoModel.MisilBalistico)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimMisilBalistico.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimMisilBalistico.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimMisilBalistico.Bind(TiroAlBancoModel.IMisil)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AlcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_Alcance()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AlcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_Alcance(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AnguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AnguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.ConstructorDoubleDouble">
+            <summary>Establecer el shim de MisilBalistico.MisilBalistico(Double velocidad, Double angulo)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.VelocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_VelocidadInicial()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.VelocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.alcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_alcance()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.alcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_alcance(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.anguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_anguloSalida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.anguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_anguloSalida(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.velocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_velocidadInicial()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.velocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_velocidadInicial(Double value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.AlcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_Alcance()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.AlcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_Alcance(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.AnguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.AnguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.VelocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_VelocidadInicial()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.VelocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.alcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_alcance()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.alcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_alcance(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.anguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_anguloSalida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.anguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_anguloSalida(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.velocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_velocidadInicial()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimMisilBalistico.AllInstances.velocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_velocidadInicial(Double value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimPartida">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Partida</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimPartida.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimPartida.#ctor(TiroAlBancoModel.Partida)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimPartida.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimPartida.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimPartida.Bind(TiroAlBancoModel.IPartida)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.Constructor">
+            <summary>Establecer el shim de Partida.Partida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.ConstructorIObjetivo">
+            <summary>Establecer el shim de Partida.Partida(IObjetivo objetivo)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.DispararMisilIMisil">
+            <summary>Establecer el shim de Partida.DispararMisil(IMisil misil)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.DistanciaRelativaImpactoGet">
+            <summary>Establecer el shim de Partida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.NumDisparosGet">
+            <summary>Establecer el shim de Partida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.NumDisparosSetInt32">
+            <summary>Establecer el shim de Partida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.ObjetivoAlcanzadoGet">
+            <summary>Establecer el shim de Partida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el shim de Partida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.ObjetivoGet">
+            <summary>Establecer el shim de Partida.get_Objetivo()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.UsuarioGet">
+            <summary>Establecer el shim de Partida.get_Usuario()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.UsuarioSetIUsuario">
+            <summary>Establecer el shim de Partida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimPartida.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.DispararMisilIMisil">
+            <summary>Establecer el shim de Partida.DispararMisil(IMisil misil)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.DistanciaRelativaImpactoGet">
+            <summary>Establecer el shim de Partida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.NumDisparosGet">
+            <summary>Establecer el shim de Partida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.NumDisparosSetInt32">
+            <summary>Establecer el shim de Partida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.ObjetivoAlcanzadoGet">
+            <summary>Establecer el shim de Partida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el shim de Partida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.ObjetivoGet">
+            <summary>Establecer el shim de Partida.get_Objetivo()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.UsuarioGet">
+            <summary>Establecer el shim de Partida.get_Usuario()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimPartida.AllInstances.UsuarioSetIUsuario">
+            <summary>Establecer el shim de Partida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.TiroAlBlancoFactory</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.#ctor(TiroAlBancoModel.TiroAlBlancoFactory)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.Constructor">
+            <summary>Establecer el shim de TiroAlBlancoFactory.TiroAlBlancoFactory()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearMisilDoubleDouble">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearMisil(Double p1, Double p2)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearObjetivoFijo">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearObjetivoFijo()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearObjetivoFijoDouble">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearObjetivoFijo(Double p)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearPartida">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearPartida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearPartidaIObjetivo">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearPartida(IObjetivo objetivo)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearUsuario">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearUsuario()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.CrearUsuarioString">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearUsuario(String p)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimTiroAlBlancoFactory.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimUsuario">
+            <summary>Tipo de correcciones de compatibilidad (shim) de TiroAlBancoModel.Usuario</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimUsuario.#ctor(TiroAlBancoModel.Usuario)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimUsuario.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimUsuario.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.ShimUsuario.Bind(TiroAlBancoModel.IUsuario)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.Constructor">
+            <summary>Establecer el shim de Usuario.Usuario()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.ConstructorString">
+            <summary>Establecer el shim de Usuario.Usuario(String p)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.UsuarioIdGet">
+            <summary>Establecer el shim de Usuario.get_UsuarioId()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.UsuarioIdSetString">
+            <summary>Establecer el shim de Usuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.ShimUsuario.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.AllInstances.UsuarioIdGet">
+            <summary>Establecer el shim de Usuario.get_UsuarioId()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.ShimUsuario.AllInstances.UsuarioIdSetString">
+            <summary>Establecer el shim de Usuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubExcepciones">
+            <summary>Tipo stub de TiroAlBancoModel.Excepciones</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubExcepciones.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubExcepciones.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubExcepciones</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubExcepciones.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubExcepciones.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubExcepciones.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubIMisil">
+            <summary>Tipo stub de TiroAlBancoModel.IMisil</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIMisil.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIMisil</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.AlcanceGet">
+            <summary>Establecer el stub de IMisil.get_Alcance()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.AlcanceSetDouble">
+            <summary>Establecer el stub de IMisil.set_Alcance(Double value)</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.AnguloSalidaGet">
+            <summary>Establecer el stub de IMisil.get_AnguloSalida()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.AnguloSalidaSetDouble">
+            <summary>Establecer el stub de IMisil.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIMisil.AttachBackingFieldToAlcance">
+            <summary>Asocia delegados para emular StubIMisil.Alcance como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIMisil.AttachBackingFieldToAnguloSalida">
+            <summary>Asocia delegados para emular StubIMisil.AnguloSalida como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIMisil.AttachBackingFieldToVelocidadInicial">
+            <summary>Asocia delegados para emular StubIMisil.VelocidadInicial como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.VelocidadInicialGet">
+            <summary>Establecer el stub de IMisil.get_VelocidadInicial()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIMisil.VelocidadInicialSetDouble">
+            <summary>Establecer el stub de IMisil.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIMisil.tabm::TiroAlBancoModel#IMisil#Alcance">
+            <summary>Establecer el stub de IMisil.get_Alcance()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIMisil.tabm::TiroAlBancoModel#IMisil#AnguloSalida">
+            <summary>Establecer el stub de IMisil.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIMisil.tabm::TiroAlBancoModel#IMisil#VelocidadInicial">
+            <summary>Establecer el stub de IMisil.get_VelocidadInicial()</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubIObjetivo">
+            <summary>Tipo stub de TiroAlBancoModel.IObjetivo</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIObjetivo.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIObjetivo</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIObjetivo.AttachBackingFieldToDistancia">
+            <summary>Asocia delegados para emular StubIObjetivo.Distancia como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIObjetivo.DistanciaGet">
+            <summary>Establecer el stub de IObjetivo.get_Distancia()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIObjetivo.DistanciaSetDouble">
+            <summary>Establecer el stub de IObjetivo.set_Distancia(Double value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIObjetivo.tabm::TiroAlBancoModel#IObjetivo#Distancia">
+            <summary>Establecer el stub de IObjetivo.get_Distancia()</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubIPartida">
+            <summary>Tipo stub de TiroAlBancoModel.IPartida</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIPartida.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIPartida</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIPartida.AttachBackingFieldToNumDisparos">
+            <summary>Asocia delegados para emular StubIPartida.NumDisparos como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIPartida.AttachBackingFieldToObjetivoAlcanzado">
+            <summary>Asocia delegados para emular StubIPartida.ObjetivoAlcanzado como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIPartida.AttachBackingFieldToUsuario">
+            <summary>Asocia delegados para emular StubIPartida.Usuario como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.DispararMisilIMisil">
+            <summary>Establecer el stub de IPartida.DispararMisil(IMisil misil)</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.DistanciaRelativaImpactoGet">
+            <summary>Establecer el stub de IPartida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.NumDisparosGet">
+            <summary>Establecer el stub de IPartida.get_NumDisparos()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.NumDisparosSetInt32">
+            <summary>Establecer el stub de IPartida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.ObjetivoAlcanzadoGet">
+            <summary>Establecer el stub de IPartida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el stub de IPartida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.ObjetivoGet">
+            <summary>Establecer el stub de IPartida.get_Objetivo()</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#DispararMisil(TiroAlBancoModel.IMisil)">
+            <summary>Establecer el stub de IPartida.DispararMisil(IMisil misil)</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.UsuarioGet">
+            <summary>Establecer el stub de IPartida.get_Usuario()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIPartida.UsuarioSetIUsuario">
+            <summary>Establecer el stub de IPartida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#DistanciaRelativaImpacto">
+            <summary>Establecer el stub de IPartida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#NumDisparos">
+            <summary>Establecer el stub de IPartida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#Objetivo">
+            <summary>Establecer el stub de IPartida.get_Objetivo()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#ObjetivoAlcanzado">
+            <summary>Establecer el stub de IPartida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIPartida.tabm::TiroAlBancoModel#IPartida#Usuario">
+            <summary>Establecer el stub de IPartida.get_Usuario()</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubIUsuario">
+            <summary>Tipo stub de TiroAlBancoModel.IUsuario</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIUsuario</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubIUsuario.AttachBackingFieldToUsuarioId">
+            <summary>Asocia delegados para emular StubIUsuario.UsuarioId como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIUsuario.UsuarioIdGet">
+            <summary>Establecer el stub de IUsuario.get_UsuarioId()</summary>
+        </member>
+        <member name="F:TiroAlBancoModel.Fakes.StubIUsuario.UsuarioIdSetString">
+            <summary>Establecer el stub de IUsuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubIUsuario.tabm::TiroAlBancoModel#IUsuario#UsuarioId">
+            <summary>Establecer el stub de IUsuario.get_UsuarioId()</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubMisilBalistico">
+            <summary>Tipo stub de TiroAlBancoModel.MisilBalistico</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubMisilBalistico.#ctor(System.Double,System.Double)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubMisilBalistico.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubMisilBalistico</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubMisilBalistico.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubMisilBalistico.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubMisilBalistico.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubPartida">
+            <summary>Tipo stub de TiroAlBancoModel.Partida</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubPartida.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubPartida.#ctor(TiroAlBancoModel.IObjetivo)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubPartida.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubPartida</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubPartida.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubPartida.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubPartida.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory">
+            <summary>Tipo stub de TiroAlBancoModel.TiroAlBlancoFactory</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubTiroAlBlancoFactory</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubTiroAlBlancoFactory.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:TiroAlBancoModel.Fakes.StubUsuario">
+            <summary>Tipo stub de TiroAlBancoModel.Usuario</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubUsuario.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubUsuario.#ctor(System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:TiroAlBancoModel.Fakes.StubUsuario.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubUsuario</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubUsuario.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubUsuario.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:TiroAlBancoModel.Fakes.StubUsuario.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

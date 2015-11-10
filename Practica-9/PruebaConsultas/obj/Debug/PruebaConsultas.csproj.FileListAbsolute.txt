@@ -1,0 +1,8 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\bin\Debug\PruebaConsultas.exe.config
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\bin\Debug\PruebaConsultas.exe
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\bin\Debug\PruebaConsultas.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\bin\Debug\Practica-9.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\bin\Debug\Practica-9.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\obj\Debug\PruebaConsultas.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\obj\Debug\PruebaConsultas.exe
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-9\PruebaConsultas\obj\Debug\PruebaConsultas.pdb

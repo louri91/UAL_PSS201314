@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasePila", "ClasePila\ClasePila.csproj", "{D77E38E5-DD7D-4987-9274-7F61EF5DE106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilaTest", "PilaTest\PilaTest.csproj", "{DC6FF9A3-2D46-41A3-8D7F-8C48A6DF1120}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.106:8080/tfs/2012-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClasePila\\ClasePila.csproj
+		SccProjectName1 = ClasePila
+		SccLocalPath1 = ClasePila
+		SccProjectUniqueName2 = PilaTest\\PilaTest.csproj
+		SccProjectName2 = PilaTest
+		SccLocalPath2 = PilaTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77E38E5-DD7D-4987-9274-7F61EF5DE106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77E38E5-DD7D-4987-9274-7F61EF5DE106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77E38E5-DD7D-4987-9274-7F61EF5DE106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77E38E5-DD7D-4987-9274-7F61EF5DE106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6FF9A3-2D46-41A3-8D7F-8C48A6DF1120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6FF9A3-2D46-41A3-8D7F-8C48A6DF1120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6FF9A3-2D46-41A3-8D7F-8C48A6DF1120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6FF9A3-2D46-41A3-8D7F-8C48A6DF1120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

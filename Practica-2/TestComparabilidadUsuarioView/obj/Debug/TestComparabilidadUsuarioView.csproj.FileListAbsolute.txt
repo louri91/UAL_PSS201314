@@ -1,0 +1,36 @@
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\obj\Debug\TestComparabilidadUsuarioView.csprojResolveAssemblyReference.cache
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\UsuarioViewModel.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\bin\Debug\UsuarioViewModel.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioViewModel.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioViewModel.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\TestComparabilidadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\bin\Debug\UsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\TestComparabilidadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\obj\Debug\TestComparabilidadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\UsuarioTestComparabilidad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\BindingCollection.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\BindingCollection.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestComparabilidadUsuarioView\obj\Debug\UsuarioTestComparabilidad.pdb

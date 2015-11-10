@@ -1,0 +1,7 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuenciaTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuenciaTest.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\bin\Debug\Collection.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\bin\Debug\Collection.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-7\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.pdb

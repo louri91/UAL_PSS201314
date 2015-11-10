@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoConsolaApp", "TiroAlBlancoConsolaApp\TiroAlBlancoConsolaApp.csproj", "{8775CBA5-72DF-4B66-A8F1-823978D642DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoModel", "TiroAlBancoModel\TiroAlBlancoModel.csproj", "{565EBB2A-86E1-4A6E-BC74-1B0B774CBDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoTest", "TiroAlBlancoTest\TiroAlBlancoTest.csproj", "{095B388E-E0BA-4978-B909-492B4E5D4E46}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.106:8080/tfs/2012-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TiroAlBancoModel\\TiroAlBlancoModel.csproj
+		SccProjectName1 = TiroAlBancoModel
+		SccLocalPath1 = TiroAlBancoModel
+		SccProjectUniqueName2 = TiroAlBlancoConsolaApp\\TiroAlBlancoConsolaApp.csproj
+		SccProjectName2 = TiroAlBlancoConsolaApp
+		SccLocalPath2 = TiroAlBlancoConsolaApp
+		SccProjectUniqueName3 = TiroAlBlancoTest\\TiroAlBlancoTest.csproj
+		SccProjectName3 = TiroAlBlancoTest
+		SccLocalPath3 = TiroAlBlancoTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8775CBA5-72DF-4B66-A8F1-823978D642DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8775CBA5-72DF-4B66-A8F1-823978D642DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8775CBA5-72DF-4B66-A8F1-823978D642DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8775CBA5-72DF-4B66-A8F1-823978D642DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565EBB2A-86E1-4A6E-BC74-1B0B774CBDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565EBB2A-86E1-4A6E-BC74-1B0B774CBDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565EBB2A-86E1-4A6E-BC74-1B0B774CBDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565EBB2A-86E1-4A6E-BC74-1B0B774CBDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095B388E-E0BA-4978-B909-492B4E5D4E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095B388E-E0BA-4978-B909-492B4E5D4E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095B388E-E0BA-4978-B909-492B4E5D4E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095B388E-E0BA-4978-B909-492B4E5D4E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

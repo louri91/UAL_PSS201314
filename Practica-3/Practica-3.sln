@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autentificacion.Base", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.Base\Autentificacion.Base.csproj", "{15DE56E2-554B-4B6F-B791-1C81EB242F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColeccionUsuariosTest", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.ColeccionUsuariosTest\ColeccionUsuariosTest.csproj", "{BDCEDC35-0F44-4BB9-ABFB-8BA20D12B321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autentificacion.IEnumerable", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.IEnumerable\Autentificacion.IEnumerable.csproj", "{03067464-140C-44BC-81CD-4482EC4D02E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autentificacion.IEnumerableTest", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.IEnumerableTest\Autentificacion.IEnumerableTest.csproj", "{CA9A1F91-1062-4E63-97B0-ACC5C714DAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autentificacion.Servicios", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.Servicios\Autentificacion.Servicios.csproj", "{64F33C34-4C1E-4B87-BA84-D71D91DA0881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autentificacion.Streams", "..\..\..\..\..\Users\Alejandro Valdivia\Desktop\ual\Programacion de Servicios Software\2012-13\Practica\Practica 3\Practica-03Test\Autentificacion\Autentificacion\Autentificacion.Stream\Autentificacion.Streams.csproj", "{D3E0E5A6-F610-433D-BFAB-108893E4EF63}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.106:8080/tfs/2012-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Base\\Autentificacion.Base.csproj
+		SccProjectName1 = Autentificacion.Base
+		SccLocalPath1 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Base
+		SccProjectUniqueName2 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.ColeccionUsuariosTest\\ColeccionUsuariosTest.csproj
+		SccProjectName2 = Autentificacion.ColeccionUsuariosTest
+		SccLocalPath2 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.ColeccionUsuariosTest
+		SccProjectUniqueName3 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.IEnumerable\\Autentificacion.IEnumerable.csproj
+		SccProjectName3 = Autentificacion.IEnumerable
+		SccLocalPath3 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.IEnumerable
+		SccProjectUniqueName4 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.IEnumerableTest\\Autentificacion.IEnumerableTest.csproj
+		SccProjectName4 = Autentificacion.IEnumerableTest
+		SccLocalPath4 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.IEnumerableTest
+		SccProjectUniqueName5 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Servicios\\Autentificacion.Servicios.csproj
+		SccProjectName5 = Autentificacion.Servicios
+		SccLocalPath5 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Servicios
+		SccProjectUniqueName6 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Stream\\Autentificacion.Streams.csproj
+		SccProjectName6 = Autentificacion.Stream
+		SccLocalPath6 = ..\\..\\..\\..\\..\\Users\\Alejandro\u0020Valdivia\\Desktop\\ual\\Programacion\u0020de\u0020Servicios\u0020Software\\2012-13\\Practica\\Practica\u00203\\Practica-03Test\\Autentificacion\\Autentificacion\\Autentificacion.Stream
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DE56E2-554B-4B6F-B791-1C81EB242F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DE56E2-554B-4B6F-B791-1C81EB242F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DE56E2-554B-4B6F-B791-1C81EB242F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DE56E2-554B-4B6F-B791-1C81EB242F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCEDC35-0F44-4BB9-ABFB-8BA20D12B321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCEDC35-0F44-4BB9-ABFB-8BA20D12B321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCEDC35-0F44-4BB9-ABFB-8BA20D12B321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCEDC35-0F44-4BB9-ABFB-8BA20D12B321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03067464-140C-44BC-81CD-4482EC4D02E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03067464-140C-44BC-81CD-4482EC4D02E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03067464-140C-44BC-81CD-4482EC4D02E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03067464-140C-44BC-81CD-4482EC4D02E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9A1F91-1062-4E63-97B0-ACC5C714DAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9A1F91-1062-4E63-97B0-ACC5C714DAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9A1F91-1062-4E63-97B0-ACC5C714DAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9A1F91-1062-4E63-97B0-ACC5C714DAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F33C34-4C1E-4B87-BA84-D71D91DA0881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F33C34-4C1E-4B87-BA84-D71D91DA0881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F33C34-4C1E-4B87-BA84-D71D91DA0881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F33C34-4C1E-4B87-BA84-D71D91DA0881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E0E5A6-F610-433D-BFAB-108893E4EF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E0E5A6-F610-433D-BFAB-108893E4EF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E0E5A6-F610-433D-BFAB-108893E4EF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E0E5A6-F610-433D-BFAB-108893E4EF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

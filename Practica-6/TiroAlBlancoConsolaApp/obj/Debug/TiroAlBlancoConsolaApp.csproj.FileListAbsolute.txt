@@ -1,0 +1,13 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.RecursosLocalizables.StringResources.resources
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.RecursosLocalizables.StringResources.es-ES.resources
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.csproj.GenerateResource.Cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.exe.config
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.exe
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\es-ES\TiroAlBlancoConsolaApp.resources.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBancoModel.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBancoModel.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\es-ES\TiroAlBlancoConsolaApp.resources.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.exe
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.pdb

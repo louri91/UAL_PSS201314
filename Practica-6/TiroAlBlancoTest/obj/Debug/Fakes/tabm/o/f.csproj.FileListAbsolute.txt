@@ -1,0 +1,10 @@
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBancoModel.Fakes.xml
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBancoModel.Fakes.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBancoModel.Fakes.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBancoModel.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBancoModel.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\f.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBancoModel.Fakes.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-6\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBancoModel.Fakes.pdb

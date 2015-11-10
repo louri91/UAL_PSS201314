@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica-9", "Practica-9\Practica-9.csproj", "{DD44B37D-D599-4599-AB49-C15A6D82CBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaConsultas", "PruebaConsultas\PruebaConsultas.csproj", "{B647FCF4-0DAA-4CCF-A738-C579B7F6E2B7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.106:8080/tfs/2012-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Practica-9\\Practica-9.csproj
+		SccProjectName1 = Practica-9
+		SccLocalPath1 = Practica-9
+		SccProjectUniqueName2 = PruebaConsultas\\PruebaConsultas.csproj
+		SccProjectName2 = PruebaConsultas
+		SccLocalPath2 = PruebaConsultas
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD44B37D-D599-4599-AB49-C15A6D82CBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD44B37D-D599-4599-AB49-C15A6D82CBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD44B37D-D599-4599-AB49-C15A6D82CBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD44B37D-D599-4599-AB49-C15A6D82CBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B647FCF4-0DAA-4CCF-A738-C579B7F6E2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B647FCF4-0DAA-4CCF-A738-C579B7F6E2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B647FCF4-0DAA-4CCF-A738-C579B7F6E2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B647FCF4-0DAA-4CCF-A738-C579B7F6E2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

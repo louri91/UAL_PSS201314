@@ -1,0 +1,36 @@
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\obj\Debug\TestIgualdadUsuarioView.csprojResolveAssemblyReference.cache
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\UsuarioViewModel.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\bin\Debug\UsuarioViewModel.pdb
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.dll
+D:\CAMELOT-2011-PSS\Test Igualdad Comparabilidad Recorrido Colecciones\Test-1\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioViewModel.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioViewModel.pdb
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\TestIgualdadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.dll
+C:\TFS-LANCELOT\2012-PSS-ALUMNOS\Moreno Ruiz Jose Andres (jaruiz)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\bin\Debug\UsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\TestIgualdadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-02\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\obj\Debug\TestIgualdadUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\UsuarioTestIgualdad.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\BindingCollection.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.dll
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\BindingCollection.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\bin\Debug\IUsuarioView.pdb
+C:\TFS-CAMELOT\2012-TFS-ALUMNOS\Valdivia Rosales Alejandro (avr347)\Grupo Trabajo\Practica-2\TestIgualdadUsuarioView\obj\Debug\UsuarioTestIgualdad.pdb
